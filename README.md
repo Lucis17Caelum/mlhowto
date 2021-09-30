@@ -1,5 +1,5 @@
 # Machine Learning, how & why
-
+gh pr checkout 5
 You can also read the [Portuguese](translation/README.pt-br.md) version.
 
 ## About this
